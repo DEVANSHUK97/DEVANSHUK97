@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Devanshu, Having a sound background in technology & statistics and with a keen interest in business, I find distilling data to deliver actionable insights deeply fulfilling.
-### 🔭 I’m currently working on honing my proramming skills in C++ and Python while also learning data engineering skills like HDFS, Spark, Hive and a bit of Azure
-### 🌱 I’m currently learning about finance and accounting, with an aim to do interesting side-projects leveraging data science skills in the domain of finance
+### 🔭 I’m currently working on honing my proramming skills in C++ and Python while also learning data engineering skills like HDFS, Spark, Hive and a bit of Kafka.
+### 🌱 I’m currently learning about Cloud Computing, with an aim to do interesting side-projects leveraging data science skills on the almighty AWS.
 
 <!--
 **DEVANSHUK97/DEVANSHUK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
